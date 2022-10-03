@@ -219,23 +219,25 @@ li.slick-active button{
     width: 29%;
     float: left;
     position: relative;
+   
+   
  }
  .bloco-imagem img {
+    border-radius: 8px;
     margin-left:20px;
     width: 200px;
-    height: ;
-}
-
-.bloco-imagem b, p {
+    box-shadow: 1px 5px 20px black;
     text-align: left;
 }
  
 .bloco-imagem{
-     height: 400px;
+ 
+     height: 250px;
     border: 1px solid #c5c5c5;
     padding-top: 15px;
     padding-bottom: 15px;
     margin-left: 10px;
+   text-align: center;
 
 }
 .bloco-texto{
@@ -244,6 +246,7 @@ li.slick-active button{
 
  h3 {
     font-weight: normal!important;
+    text-align: center;
 }
 
 
@@ -346,6 +349,8 @@ li.slick-active button{
         background-repeat: no-repeat;
         background-size: contain;
     }
+
+
 @media screen and (max-width: 980px) {
 
    
