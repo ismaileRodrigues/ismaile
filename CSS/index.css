@@ -370,4 +370,23 @@ li.slick-active button{
         margin-left: 15px;
         font-size: 1em;
     }
+    .footer p,.footer h3{
+        width: 100%;
+        text-align: center;
+    }
+
+    .col-4{
+        margin-left: 30px;
+    }
+  #data{
+    display: flex;
+   justify-content: center;
+  }
+  .bloco-imagem{
+     height: 250px;
+     border: none;
+   
+ 
+
+}
 }
